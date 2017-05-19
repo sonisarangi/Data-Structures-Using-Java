@@ -1,0 +1,32 @@
+Dr RimiPsychiatrist
+MBBS, MD 141101
+Dr VijayKumarOncologist
+MBBS, MD141102
+Dr RheaCardiologistMBBS, MD
+141103
+Dr SonikaNeurologist
+MBBS, MD, FACS
+141104
+Dr Raju
+Orthodontology
+BDS
+141105
+Dr SanjayInternalMedicine
+MBBS, MD,FACS141106
+
+Dr AshokOrthopedics
+MBBS, MD
+141107
+Dr Pranjali
+Obstetrics
+MBBSMD
+141108
+
+Dr Shivani
+Opthalmologist
+MBBS,MD
+141109
+Dr Shenoy
+Paediatrician
+MBBS, MD,FRCS
+141110
